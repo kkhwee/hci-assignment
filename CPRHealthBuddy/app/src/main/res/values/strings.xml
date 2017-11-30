@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Life Saving Buddy</string>
+    <string name="main_page_heading"><u>CPR STEPS</u></string>
+    <string name="step1">Check for Danger</string>
+    <string name="step2">Check for RESPONSE : Tap Shoulder and Shout "Hello! Hello! are you okay?"</string>
+    <string name="step3">Shout : Help! Call Ambulance and get an AED</string>
+    <string name="step4">Open AIRWAY : Head-Tilt, Chin-Lift</string>
+    <string name="step5">Check for BREATHING : Look for rise and fall of the chest up to 10 seconds</string>
+    <string name="step6">Start CHEST COMPRESSION</string>
+    <string name="stopped">stopped</string>
+</resources>
