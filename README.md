@@ -1,4 +1,4 @@
-# hci-assignment
+# HCI-Assignment
 CPR Health Buddy Android Application
 
 # APK file
